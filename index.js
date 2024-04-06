@@ -10,4 +10,7 @@ function huhu(name) {
 function hehe(name) {
   return `Hello, ${name}!`;
 }
+function hihi(name) {
+  return `Hello, ${name}!`;
+}
 module.exports = greet;
