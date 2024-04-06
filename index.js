@@ -7,4 +7,7 @@ function haha(name) {
 function huhu(name) {
   return `Hello, ${name}!`;
 }
+function hehe(name) {
+  return `Hello, ${name}!`;
+}
 module.exports = greet;
