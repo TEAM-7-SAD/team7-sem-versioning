@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "https://www.npmjs.com/settings/dummy-carl/packages" # See documentation for possible values
+  - package-ecosystem: "https://www.npmjs.com/settings/dummy-carl" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
