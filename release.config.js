@@ -12,6 +12,7 @@ const config = {
       },
     ],
   ],
+  tagFormat: "${version}-alpha",
 };
 
 module.exports = config;
