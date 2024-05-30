@@ -1,4 +1,4 @@
-name: Pre-Release
+name: Release
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - development
 
 jobs:
-  pre-release:
+  release:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
